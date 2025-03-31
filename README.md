@@ -12,13 +12,13 @@
 
 🔧 Tech Stack & Tools
 
-    🐍 Python (OpenCV, NumPy, Matplotlib, cvzone)
+    🐍 Python (OpenCV, NumPy, Matplotlib, cvzone...)
 
-    ⚡ C / Embedded C (Arduino, Raspberry Pi)
+    ⚡ C / Embedded C (Arduino, Raspberry Pi, STM32)
 
     🔗 LoRa Communication (LoRa E32 Modules)
 
-    🎛️ Sensor Integration (Lidar, BNO055, Gyroscopes)
+    🎛️ Sensor Integration (Garmin Lidar, BNO055, Gyroscopes,GPS...)
 
     🖥️ QT5 for GUI Development
 
