@@ -1,4 +1,52 @@
-<h2 align="left">Hi 👋! My name is Arda and I'm a Electrical and Electronic Engineering Student from Atatürk University</h2>
+<h2 align="left">Hi 👋! My name is Arda and I'm an Electrical and Electronics Engineering Student from Atatürk University</h2>
+
+🎯 Interests & Expertise
+
+    🔬 Passionate about Computer Vision & Embedded Systems
+
+    🤖 Experienced in Object Tracking & Detection using OpenCV & YOLO
+
+    🛰️ Working on LoRa Communication & Sensor Fusion (Kalman Filters)
+
+    🎯 Developing an Object Tracking & Shooting System for precision targeting
+
+🔧 Tech Stack & Tools
+
+    🐍 Python (OpenCV, NumPy, Matplotlib, cvzone)
+
+    ⚡ C / Embedded C (Arduino, Raspberry Pi)
+
+    🔗 LoRa Communication (LoRa E32 Modules)
+
+    🎛️ Sensor Integration (Lidar, BNO055, Gyroscopes)
+
+    🖥️ QT5 for GUI Development
+
+    📡 Foxeer Camera integration with OpenCV
+
+🚀 Current Projects
+
+    🔵 Object Tracking with Raspberry Pi & Arduino
+
+        Tracking & controlling servo motors based on object movement
+
+        Implementing real-time position tracking & shooting algorithm
+
+    📡 LoRa Communication between Arduino Mega & Nano
+
+        Sending sensor data wirelessly using LoRa E32 modules
+
+        Receiving & processing real-time telemetry data
+
+📜 Future Goals
+
+    🧠 Implementing AI-based Object Detection & Decision Making
+
+    🏹 Optimizing Targeting Algorithm for Shooting Systems
+
+    📡 Enhancing Long-range Wireless Communication with LoRa
+
+✨ Feel free to connect & collaborate on OpenCV, LoRa, Embedded Systems, and AI Projects! 🚀
 
 ###
 
