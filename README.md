@@ -38,13 +38,6 @@
 
         Receiving & processing real-time telemetry data
 
-📜 Future Goals
-
-    🧠 Implementing AI-based Object Detection & Decision Making
-
-    🏹 Optimizing Targeting Algorithm for Shooting Systems
-
-    📡 Enhancing Long-range Wireless Communication with LoRa
 
 ✨ Feel free to connect & collaborate on OpenCV, LoRa, Embedded Systems, and AI Projects! 🚀
 
